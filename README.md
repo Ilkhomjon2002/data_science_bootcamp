@@ -36,18 +36,19 @@ This repository is organized as follows:
 
 ```
 📂 data_science_bootcamp
-├── 📁 notebooks
-│   ├── Python_Basics.ipynb
-│   ├── NumPy_Tutorial.ipynb
-│   ├── Pandas_Tutorial.ipynb
-│   ├── Data_Visualization.ipynb
-│   ├── Machine_Learning_Models.ipynb
-│   └── Deep_Learning.ipynb
-├── 📁 datasets
-│   ├── dataset1.csv
-│   └── dataset2.xlsx
+├── 📁 01-Python-Crash-Course
+│   ├── 01-Python Crash Course.ipynb
+│   ├── 02-Python Crash Course Exercises.ipynb
+│   └── 03-Python Crash Course Exercises - Solutions.ipynb
+├── 📁 02-Python-for-Data-Analysis-NumPy
+├── 📁 03-Python-for-Data-Analysis-Pandas
+├── 📁 04-Pandas-Exercises
+├── 📁 05-Data-Visualization-with-Matplotlib
+├── 📁 06-Data-Visualization-with-Seaborn
+├── 📁 07-Pandas-Built-in-Data-Viz
+├── 📁 08-Plotly-and-Cufflinks
+├── 📁 09-Geographical-Plotting
 ├── README.md  # (You're here!)
-└── requirements.txt
 ```
 
 ---
